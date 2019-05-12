@@ -1,3 +1,12 @@
+/*
+ *   dotProduct.c
+ *
+ *   An MPI program that computes the inner product of two vectors
+ *
+ *   Written by cetinsamet -*- cetin.samet@metu.edu.tr
+ *   April, 2019
+ *
+ */
 #include <mpi.h>
 #include <stdio.h>
 #include <stdlib.h>
